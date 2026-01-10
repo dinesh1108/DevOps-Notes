@@ -7,3 +7,4 @@
 * [Installation of SELinux](installation-of-selinux.md)
 * [Setup Cron Job](setup-cron-job.md)
 * [Bare git hub](bare-git-hub.md)
+* [Forward Proxy & Reverse Proxy](forward-proxy-and-reverse-proxy.md)
