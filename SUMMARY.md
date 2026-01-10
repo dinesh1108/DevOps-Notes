@@ -5,3 +5,5 @@
 * [Secure SSH Access](secure-ssh-access.md)
 * [Script executable permission](script-executable-permission.md)
 * [Installation of SELinux](installation-of-selinux.md)
+* [Setup Cron Job](setup-cron-job.md)
+* [Bare git hub](bare-git-hub.md)
